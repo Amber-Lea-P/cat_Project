@@ -1,0 +1,1 @@
+Sometimes there is nothing better than getting back to the basics and reviewing. Here i reviewed one of the very first projects I ever made with the guidance of freeCodeCamp.org. This project consist of only HTML5
